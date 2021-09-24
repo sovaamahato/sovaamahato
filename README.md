@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @sovaamahato
+- 👀 I’m interested in solving complex proble....
+- 🌱 I’m currently learning Bachelor in Information Technology...
+- 💞️ I love to code on python...
+
+<!---
+sovaamahato/sovaamahato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
