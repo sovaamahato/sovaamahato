@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @sovaamahato
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me mahatosova618@gmail.com
+- 👨‍💻 All of my projects are available at https://github.com/sovaamahato
 - 👀 I’m interested in solving complex problem....
-- 🌱 I’m currently Studying Bachelor in Information Technology...
 
 <!---
 sovaamahato/sovaamahato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
