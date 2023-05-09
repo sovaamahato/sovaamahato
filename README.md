@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sovaamahato" alt="sovaamahato" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,c#**
+- 🌱 I’m currently learning **Flutter, java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sovaamahato](https://github.com/sovaamahato)
 
