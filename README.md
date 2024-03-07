@@ -1,6 +1,6 @@
 - <h1 align="center">Hi 👋, I'm Sova Kushwaha</h1>
 <h3 align="center">A passionate App developer</h3>
-- 🌱 I’m currently learning ** java**
+- 🌱 I’m currently learning ** AI **
 
 - 👨‍💻 All of my projects are available at [https://github.com/sovaamahato](https://github.com/sovaamahato)
 
