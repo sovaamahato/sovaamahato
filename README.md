@@ -59,7 +59,7 @@
 <h3 align="left">🔥 My Stats :</h3>
 <p align="center">
   <a href="https://github.com/sovaamahato">
-    <img src="https://github-readme-stats.vercel.app/api?username=sovaamahato&show_icons=true&theme=radical" alt="Sova's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sovaamahato&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Sova's GitHub stats" />
   </a>
 </p>
 <p align="center">
@@ -69,8 +69,9 @@
 </p>
 <p align="center">
   <a href="https://github.com/sovaamahato">
-    <img src="https://github-profile-trophy.vercel.app/?username=sovaamahato&theme=radical" alt="Sova's GitHub trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sovaamahato&theme=radical&no-frame=true&margin-w=4" alt="Sova's GitHub trophies" />
   </a>
 </p>
+
 
 
