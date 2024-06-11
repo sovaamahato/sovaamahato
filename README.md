@@ -57,5 +57,20 @@
 </p>
 
 <h3 align="left">🔥 My Stats :</h3>
+<p align="center">
+  <a href="https://github.com/sovaamahato">
+    <img src="https://github-readme-stats.vercel.app/api?username=sovaamahato&show_icons=true&theme=radical" alt="Sova's GitHub stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sovaamahato">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sovaamahato&theme=radical" alt="Sova's GitHub streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sovaamahato">
+    <img src="https://github-profile-trophy.vercel.app/?username=sovaamahato&theme=radical" alt="Sova's GitHub trophies" />
+  </a>
+</p>
 
 
