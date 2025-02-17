@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sova</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate flutter developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sovaamahato&label=Profile%20views&color=0e75b6&style=flat" alt="sovaamahato" /> </p>
 
